@@ -1,5 +1,4 @@
-# Bài tập SS11: AI Gia sư giúp hiểu và sửa lỗi code C
-
+# bài tập thực hành 7
 ## 1. Prompt tạo AI Gia sư
 
 ````text
